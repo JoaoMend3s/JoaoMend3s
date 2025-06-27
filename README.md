@@ -29,7 +29,7 @@
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-joaomendes)
-[![X](https://x.com/_JoaoMend3s)
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://x.com/_JoaoMend3s)
 ---
 
 > "Discipline beats motivation. Let's code." ⚡
